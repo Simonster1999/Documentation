@@ -61,7 +61,7 @@ We will use the JS framework react to create the user interface
 
  <details>
  <summary> ER diagram for database </summary>
- ![ER Diagram](./images/diagrams/EntityDiagram.png)
+ ![ER Diagram](https://github.com/[Simonster1999]/[Documentation]/blob/[Main]/images/diagrams/EntityDiagram.png)
  </details>
 
 <details>
