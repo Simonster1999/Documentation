@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Documentation
-=======
+
 ### Team 1
 Simon Engström,
 Emil Gustafsson,
@@ -95,4 +93,4 @@ Meeting Saturday
 Meeting Sunday
 
 We are managing our project in a scrum-like fashion, with an aim to have incremental releases every week. We will assign a scrum master each week that handles makes the team stays on track.
->>>>>>> 3c26bcc03adfa75fd17f01f2773dc147bb2ac92c
+
