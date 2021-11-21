@@ -13,11 +13,11 @@ We are developing a web application that will provide an easy to understand inte
 
 ## Links
 * Project Trello Board: https://trello.com/b/gHtHcznV/dit-355-2020-team-1
-* Request Generator: https://git.chalmers.se/courses/dit355/2020/group-1/requestgenerator
-* Appointment Database: https://git.chalmers.se/courses/dit355/2020/group-1/appointmenthandler
-* Booking Request Validator: https://git.chalmers.se/courses/dit355/2020/group-1/jsonvalidator
-* User Booking UI: https://git.chalmers.se/courses/dit355/2020/group-1/dentistimo-front-end
-* Dentist Database: https://git.chalmers.se/courses/dit355/2020/group-1/dentistimo
+* Request Generator: https://github.com/Simonster1999/RequestGenerator
+* Appointment Database: https://github.com/Simonster1999/AppointmentDatabase
+* Booking Request Validator: https://github.com/Simonster1999/BookingRequestValidator
+* User Booking UI: https://github.com/Simonster1999/UserBookingUI
+* Dentist Database: https://github.com/Simonster1999/DentistDatabase
 
 ## Software Requirement Specification (SRS):
 
@@ -61,7 +61,7 @@ We will use the JS framework react to create the user interface
 
  <details>
  <summary> ER diagram for database </summary>
- ![ER Diagram](https://github.com/[Simonster1999]/[Documentation]/blob/[Main]/images/diagrams/EntityDiagram.png)
+ ![ER Diagram](./images/diagrams/EntityDiagram.png)
  </details>
 
 <details>
